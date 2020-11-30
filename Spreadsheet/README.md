@@ -19,4 +19,4 @@ Submit your solution [on the challenge page](link_to_submission_form) no later t
 
 ## Deliverables
 
-Submit your compressed Excel file [on the challenge page](link_to_submission_form) no later than January 28, 2021 for corporate employees and February 12, 2021 for retail employees. Don't put your file in a folder before compressing; compress the file itself.
+Submit your compressed Excel file [on the challenge page](link_to_submission_form) no later than _**January 28, 2021 for corporate employees**_ and _**February 12, 2021 for retail employees**_. Don't put your file in a folder before compressing; compress the file itself.

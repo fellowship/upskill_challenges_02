@@ -49,7 +49,7 @@ Submit your solution [on the challenge page](link_to_submission_form) no later t
 
 ## Deliverables
 
-Submit your solution [on the challenge page](link_to_submission_form) no later than January 28, 2021 for corporate employees and February 12, 2021 for retail employees.
+Submit your solution [on the challenge page](link_to_submission_form) no later than _**January 28, 2021 for corporate employees**_ and _**February 12, 2021 for retail employees**_.
  You should submit a single Zip file containing the following:
 
 - Your predictions for the jean images: A CSV file containing the image file names and the corresponding predictions. The CSV file should be named _**yourfirstname_yourlastname_predictions.csv**_ and have the following format when viewed in Excel:
