@@ -6,9 +6,9 @@ Your goal for this challenge is to perform some data analysis, complete a series
 
 ## Instructions
 
-The [Excel File](https://github.com/fellowship/upskill/blob/master/challenges/Spreadsheet/Spreadsheet%20Challenge.xlsx) containins all the necessary details. Download the file, rename it _**yourfirstname_yourlastname_excel.xlsx**_, read the instructions, and complete the exercises.
+The [Excel File](https://github.com/fellowship/upskill_challenges/blob/main/Spreadsheet/Spreadsheet%20Challenge.xlsx) containins all the necessary details. Download the file, rename it _**yourfirstname_yourlastname_excel.xlsx**_, read the instructions, and complete the exercises.
 
-Submit the required deliverables no later than January 28, 2021 [here](link_to_submission_form).
+Submit your solution [on the challenge page](link_to_submission_form) no later than January 28, 2021 for corporate employees and February 12, 2021 for retail employees.
 
 ## Guidelines
 
@@ -19,4 +19,4 @@ Submit the required deliverables no later than January 28, 2021 [here](link_to_s
 
 ## Deliverables
 
-Submit your solution [here](link_to_submission_form) as a zip file. Don't put your file in a folder before compressing; compress the file itself.
+Submit your compressed Excel file [on the challenge page](link_to_submission_form) no later than January 28, 2021 for corporate employees and February 12, 2021 for retail employees. Don't put your file in a folder before compressing; compress the file itself.

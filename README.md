@@ -2,17 +2,17 @@
 
 ## Overview
 
-Applicants to the UpSkill program are required to work on two challenge problems. Each challenge has a distinct focus and will test your problem solving and organization skills. Carefully follow the instructions and pay close attention to the solution submission guidelines; poorly formatted solutions will count against you during the evaluation process.
+Applicants to the Launchpad UpSkill program are required to work on two challenge problems. Each challenge has a distinct focus and will test your problem solving and organization skills. Carefully follow the instructions and pay close attention to the solution submission guidelines; poorly formatted solutions will count against you during the evaluation process.
 
 ## Challenges
 
-### [Spreadsheet Analysis](https://github.com/fellowship/upskill/tree/master/challenges/Spreadsheet)
+### [Spreadsheet Analysis](https://github.com/fellowship/upskill_challenges/tree/main/Spreadsheet)
 
-Analyze some data, answer some questions, and present your findings. Due no later than January 28, 2021. Refer to the [spreadsheet challenge specifics](https://github.com/fellowship/upskill/tree/master/challenges/Spreadsheet) for more details.
+Analyze some data, answer some questions, and present your findings. Due no later than **January 28, 2021 for corporate employees** and **February 12, 2021 for retail employees**. Refer to the [spreadsheet challenge specifics](https://github.com/fellowship/upskill_challenges/tree/main/Spreadsheet) for more details.
 
-### [No-code Machine Learning](https://github.com/fellowship/upskill/tree/master/challenges/Platform)
+### [No-code Machine Learning](https://github.com/fellowship/upskill_challenges/tree/main/Platform)
 
-Build a dataset and train a model using a no-code platform; use your model to categorize some jean pictures. Due no later than January 28, 2021. Refer to the [platform challenge specifics](https://github.com/fellowship/upskill/tree/master/challenges/Platform) for more details.
+Build a dataset and train a model using a no-code platform; use your model to categorize some jean pictures. Due no later than **January 28, 2021 for corporate employees** and **February 12, 2021 for retail employees**. Refer to the [platform challenge specifics](https://github.com/fellowship/upskill_challenges/tree/main/Platform) for more details.
 
 ## Helpful Hints
 

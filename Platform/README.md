@@ -4,7 +4,7 @@
 
 Your goal for this challenge is to train a machine learning model to classify images of Levi's jeans according to fit, and then use that trained model to predict fits for randomized jean images: 
 
-![Image Classification Diagram](https://github.com/fellowship/upskill/blob/master/imgs/cv_model_diagram.png)
+![Image Classification Diagram](https://github.com/fellowship/upskill_challenges/blob/main/imgs/cv_model_diagram.png)
 
 The challenge has three main steps:
 
@@ -16,7 +16,7 @@ Download and use [Lobe.ai](https://lobe.ai/) to complete this challenge. Lobe is
 
 ## Instructions
 
-In the [data repository](https://github.com/fellowship/upskill/tree/master/challenges/Platform/data) you'll find a dataset of 40 randomized jean images. Each of the jeans belongs to one of four fits:
+In the [data repository](https://github.com/fellowship/upskill_challenges/tree/main/Platform/data) you'll find a dataset of 40 randomized jean images. Each of the jeans belongs to one of four fits:
 
 - **Men 501**
 - **Men 511**
@@ -36,7 +36,7 @@ _Hint: the 40 images in the challenge data were scraped from the Levi's website;
 
 Once you have your data organized, named, and numbered you should use Lobe to assign machine learning labels to each image: m_501, w_501, etc. With labeled data in Lobe you can train the model and use it to predict a fit for all the images in the challenge data.
 
-Submit the required deliverables no later than January 28, 2021 [here](link_to_submission_form).
+Submit your solution [on the challenge page](link_to_submission_form) no later than January 28, 2021 for corporate employees and February 12, 2021 for retail employees.
 
 ## Guidelines
 
@@ -49,7 +49,8 @@ Submit the required deliverables no later than January 28, 2021 [here](link_to_s
 
 ## Deliverables
 
-Submit your solution [here](link_to_submission_form) as individual zip files. There are two distinct files you need to submit:
+Submit your solution [on the challenge page](link_to_submission_form) no later than January 28, 2021 for corporate employees and February 12, 2021 for retail employees.
+ You should submit a single Zip file containing the following:
 
 - Your predictions for the jean images: A CSV file containing the image file names and the corresponding predictions. The CSV file should be named _**yourfirstname_yourlastname_predictions.csv**_ and have the following format when viewed in Excel:
 
@@ -58,4 +59,6 @@ Submit your solution [here](link_to_submission_form) as individual zip files. Th
 | 1kDc10mxMfle.jpg | m_501      |
 | 5NtNguD8pCKo.jpg | w_721      |
 
-- Your training data: The training data set you used to train your model, including image labels as file names, in a compressed folder named _**yourfirstname_yourlastname_training_data.zip**_
+- Your training data: The training data set you used to train your model, including image labels as file names, in a folder named _**yourfirstname_yourlastname_training_data.**_
+
+Put your CSV file and the folder with the training data into a folder named _**yourfirstname_yourlastname_platform**_ and compress it. Submit the compressed file.
