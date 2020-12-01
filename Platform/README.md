@@ -12,7 +12,7 @@ The challenge has three main steps:
 2. Train a Computer Vision model using your data set.
 3. Use your trained model to classify images of Levi's jeans according to fit.
 
-Download and use [Lobe.ai](https://lobe.ai/) to complete this challenge. Lobe is a no-code machine learning platform you can use to lable data, train models, and make predictions without any prior code or machine learning knowledge. Refer to the [website](https://lobe.ai/) for more information on how to use the platform.
+Download and use [Lobe.ai](https://lobe.ai/) to complete this challenge. Lobe is a no-code machine learning platform you can use to label data, train models, and make predictions without any prior code or machine learning knowledge. Refer to the [website](https://lobe.ai/) for more information on how to use the platform.
 
 ## Instructions
 
@@ -42,7 +42,7 @@ Submit your solution [on the challenge page](link_to_submission_form) no later t
 
 - None of the randomized images from the challenge data should be in your data (that's data leakage!)
 - Your training data should contain fewer images than the challenge data set (<74 images).
-- The training data should be as small as possible, i.e. you want to maximize the performance of the model while using the smallest possibel training data set.
+- The training data should be as small as possible, i.e. you want to maximize the performance of the model while using the smallest possible training data set.
 - Image labels in Lobe must exactly match one of the following: m_501, m_511, w_501, w_721.
 - Don't hand-label the challenge images: you must use a model to predict the fit.
 - Make sure you're capable of discussing your methodology and solution during an interview.
