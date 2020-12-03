@@ -36,7 +36,7 @@ _Hint: the 40 images in the challenge data were scraped from the Levi's website;
 
 Once you have your data organized, named, and numbered you should use Lobe to assign machine learning labels to each image: m_501, w_501, etc. With labeled data in Lobe you can train the model and use it to predict a fit for all the images in the challenge data.
 
-Submit your solution [on the challenge page](link_to_submission_form) no later than January 28, 2021 for corporate employees and February 12, 2021 for retail employees.
+Submit your solution no later than January 28, 2021 for corporate employees and February 12, 2021 for retail employees.
 
 ## Guidelines
 
@@ -49,8 +49,7 @@ Submit your solution [on the challenge page](link_to_submission_form) no later t
 
 ## Deliverables
 
-Submit your solution [on the challenge page](link_to_submission_form) no later than _**January 28, 2021 for corporate employees**_ and _**February 12, 2021 for retail employees**_.
- You should submit a single Zip file containing the following:
+Your submission should be a single zip file containing the following:
 
 - Your predictions for the jean images: A CSV file containing the image file names and the corresponding predictions. The CSV file should be named _**yourfirstname_yourlastname_predictions.csv**_ and have the following format when viewed in Excel:
 
@@ -61,4 +60,4 @@ Submit your solution [on the challenge page](link_to_submission_form) no later t
 
 - Your training data: The training data set you used to train your model, including image labels as file names, in a folder named _**yourfirstname_yourlastname_training_data.**_
 
-Put your CSV file and the folder with the training data into a folder named _**yourfirstname_yourlastname_platform**_ and compress it. Submit the compressed file.
+Put your CSV file and the folder with the training data into a folder named _**yourfirstname_yourlastname_platform,**_ compress the folder, and upload the zip file to OneDrive, Google Drive, or DropBox. [Log in](https://www.launchpad.ai/upskill/levis/login) to your account and upload the public sharing link to your file via the dashboard no later than _**January 28, 2021 for corporate employees**_ and _**February 12, 2021 for retail employees**_. Don't put your file in a folder before compressing; compress the file itself.

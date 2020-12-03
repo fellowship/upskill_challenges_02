@@ -8,7 +8,7 @@ Your goal for this challenge is to perform some data analysis, complete a series
 
 The [Excel File](https://github.com/fellowship/upskill_challenges/blob/main/Spreadsheet/Spreadsheet%20Challenge.xlsx) contains all the necessary details. Download the file, rename it _**yourfirstname_yourlastname_excel.xlsx**_, read the instructions, and complete the exercises.
 
-Submit your solution [on the challenge page](link_to_submission_form) no later than January 28, 2021 for corporate employees and February 12, 2021 for retail employees.
+Submit your solution no later than January 28, 2021 for corporate employees and February 12, 2021 for retail employees.
 
 ## Guidelines
 
@@ -19,4 +19,4 @@ Submit your solution [on the challenge page](link_to_submission_form) no later t
 
 ## Deliverables
 
-Submit your compressed Excel file [on the challenge page](link_to_submission_form) no later than _**January 28, 2021 for corporate employees**_ and _**February 12, 2021 for retail employees**_. Don't put your file in a folder before compressing; compress the file itself.
+Compress the Excel file and upload it to OneDrive, Google Drive, or DropBox. [Log in](https://www.launchpad.ai/upskill/levis/login) to your account and upload the public file sharing link via the dashboard no later than _**January 28, 2021 for corporate employees**_ and _**February 12, 2021 for retail employees**_. Don't put your file in a folder before compressing; compress the file itself.
