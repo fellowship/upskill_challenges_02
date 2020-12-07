@@ -16,7 +16,7 @@ Use [Lobe.ai](https://lobe.ai/) to complete this challenge. Lobe is a no-code ma
 
 ## Instructions
 
-You need to download and install Lobe to your local system. Refer to the instructions for [installing Lobe on Mac](https://github.com/fellowship/upskill_challenges/blob/main/Platform/instillation/Installing%20Lobe%20on%20Mac.pdf) or [installing Lobe on PC]().
+You need to download and install Lobe to your local system to complete this challenge. LS&Co. has issued specific instructions on how to do so for Levi's issued computers. Refer to the instructions for [installing Lobe on Mac](https://github.com/fellowship/upskill_challenges/blob/main/Platform/instillation/Installing%20Lobe%20on%20Mac.pdf) or [installing Lobe on PC]() to get the software downloaded and installed on your machine.
 
 In the [data repository](https://github.com/fellowship/upskill_challenges/tree/main/Platform/data) you'll find a dataset of 40 randomized jean images. Each of the jeans belongs to one of four fits:
 
