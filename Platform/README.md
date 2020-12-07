@@ -12,9 +12,11 @@ The challenge has three main steps:
 2. Train a Computer Vision model using your data set.
 3. Use your trained model to classify images of Levi's jeans according to fit.
 
-Download and use [Lobe.ai](https://lobe.ai/) to complete this challenge. Lobe is a no-code machine learning platform you can use to label data, train models, and make predictions without any prior code or machine learning knowledge. Refer to the [website](https://lobe.ai/) for more information on how to use the platform.
+Use [Lobe.ai](https://lobe.ai/) to complete this challenge. Lobe is a no-code machine learning platform you can use to label data, train models, and make predictions without any prior code or machine learning knowledge. Refer to the [website](https://lobe.ai/) for more information on how to use the product.
 
 ## Instructions
+
+You need to download and install Lobe to your local system. Refer to the instructions for [installing Lobe on Mac]() or [installing Lobe on PC]().
 
 In the [data repository](https://github.com/fellowship/upskill_challenges/tree/main/Platform/data) you'll find a dataset of 40 randomized jean images. Each of the jeans belongs to one of four fits:
 
