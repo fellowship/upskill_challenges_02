@@ -43,7 +43,7 @@ Submit your solution no later than January 28, 2021 for corporate employees and 
 ## Guidelines
 
 - None of the randomized images from the challenge data should be in your data (that's data leakage!)
-- Your training data should contain fewer images than the challenge data set (<74 images).
+- Your training data should contain fewer images than the challenge data set (<40 images).
 - The training data should be as small as possible, i.e. you want to maximize the performance of the model while using the smallest possible training data set.
 - Image labels in Lobe must exactly match one of the following: m_501, m_511, w_501, w_721.
 - Don't hand-label the challenge images: you must use a model to predict the fit.
