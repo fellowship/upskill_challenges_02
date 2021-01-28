@@ -38,7 +38,7 @@ _Hint: the 40 images in the challenge data were scraped from the Levi's website;
 
 Once you have your data organized, named, and numbered you should use Lobe to assign machine learning labels to each image: m_501, w_501, etc. With labeled data in Lobe you can train the model and use it to predict a fit for all the images in the challenge data.
 
-Submit your solution no later than February 1, 2021 for corporate employees and February 12, 2021 for retail employees.
+Submit your solution no later than **midnight PST on Sunday, January 31 for corporate employees** and **Friday, February 12 for retail employees**.
 
 ## Guidelines
 
@@ -62,4 +62,4 @@ Your submission should be a single zip file containing the following:
 
 - Your training data: The training data set you used to train your model, including image labels as file names, in a folder named _**yourfirstname_yourlastname_training_data.**_
 
-Put your CSV file and the folder with the training data into a folder named _**yourfirstname_yourlastname_platform,**_ compress the folder, and upload the zip file to OneDrive, Google Drive, or DropBox. [Log in](https://www.launchpad.ai/upskill/levis/login) to your account and upload the public file sharing link via the dashboard no later than _**February 1, 2021 for corporate employees**_ and _**February 12, 2021 for retail employees**_.
+Put your CSV file and the folder with the training data into a folder named _**yourfirstname_yourlastname_platform,**_ compress the folder, and upload the zip file to OneDrive, Google Drive, or DropBox. [Log in](https://www.launchpad.ai/upskill/levis/login) to your account and upload the public file sharing link via the dashboard no later than _**midnight PST on Sunday, January 31 for corporate employees**_ and _**Friday, February 12 for retail employees**_.
