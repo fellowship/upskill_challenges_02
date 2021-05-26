@@ -38,7 +38,7 @@ _Hint: the 40 images in the challenge data were scraped from the Levi's website;
 
 Once you have your data organized, named, and numbered you should use Lobe to assign machine learning labels to each image: m_501, w_501, etc. With labeled data in Lobe you can train the model and use it to predict a fit for all the images in the challenge data.
 
-Submit your solution no later than **midnight PST on Sunday, January 31 for corporate employees** and **Friday, February 12 for retail employees**.
+Submit your solution no later than **midnight PST on Monday, June 14 for all employees**.
 
 ## Guidelines
 
