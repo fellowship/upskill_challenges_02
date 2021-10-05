@@ -6,7 +6,7 @@ Applicants to the Launchpad UpSkill program are required to work on two challeng
 
 ## Challenges
 
-### [Spreadsheet Analysis](https://github.com/fellowship/upskill_challenges/tree/main/Spreadsheet)
+### [Spreadsheet Analysis](https://github.com/fellowship/upskill_challenges_02/tree/main/Spreadsheet)
 
 Analyze some data, answer some questions, and present your findings. Due no later than **midnight PST on Monday, June 14th for all employees**. Refer to the [spreadsheet challenge specifics](https://github.com/fellowship/upskill_challenges_02/tree/main/Spreadsheet) for more details.
 
