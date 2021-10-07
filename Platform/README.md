@@ -1,5 +1,5 @@
-# No-code Platform Challenge
-Platform Challenge is a non-coding Machine Learning challenges. In this Challenge, you are expected to create a training dataset, train and test your models, then send your model along with its predictions. The Challenge consists of two parts:
+# No-code Platform Challenges
+Platform Challenges are non-coding Machine Learning challenges. You are expected to create a training dataset, train and test your models, then send your model along with their predictions. The Challenges are:
 - **Jeans Challenge**
 - **Jackets and Shirt Challenge**
 
