@@ -14,7 +14,7 @@ The challenge has three main steps:
 
 Use [Lobe.ai](https://lobe.ai/) to complete this challenge. Lobe is a no-code machine learning platform you can use to label data, train models, and make predictions without any prior code or machine learning knowledge. Refer to the [website](https://lobe.ai/) for more information on how to use the product.
 
-## Instructions
+### Instructions
 
 You need to download and install Lobe to your local system to complete this challenge. LS&Co. has issued specific instructions on how to do so for Levi's issued computers. Refer to the instructions for [installing Lobe on Mac](https://github.com/fellowship/upskill_challenges_02/blob/main/Platform/installation/Install%20Lobe%20on%20Mac.pdf) or [installing Lobe on Windows](https://github.com/fellowship/upskill_challenges_02/blob/main/Platform/installation/Install%20Lobe%20Windows.pdf) to get the software downloaded and installed on your machine.
 
@@ -40,7 +40,7 @@ Once you have your data organized, named, and numbered you should use Lobe to as
 
 Submit your solution no later than **midnight PST on Monday, June 14 for all employees**.
 
-## Guidelines
+### Guidelines
 
 - None of the randomized images from the challenge data should be in your data (that's data leakage!)
 - Your training data should contain fewer images than the challenge data set (<40 images).
@@ -49,7 +49,7 @@ Submit your solution no later than **midnight PST on Monday, June 14 for all emp
 - Don't hand-label the challenge images: you must use a model to predict the fit.
 - Make sure you're capable of discussing your methodology and solution during an interview.
 
-## Deliverables
+### Deliverables
 
 Your submission should be a single zip file containing the following:
 
@@ -79,13 +79,13 @@ Your model should predict labels as follows:
 - **Shirt**
 
 
-## Instructions
+### Instructions
 -  Build a dataset of training images from the web. 
 -  The images for training should not include any image from the testset. 
 -  Training dataset should be 30 images in total, 10 images per class.
 -  Your images should be labeled as: **Puffer** , **Tucker** , **Shirt**
 
-## Deliverables
+### Deliverables
 
 Your submission should be a single zip file containing the following:
 
