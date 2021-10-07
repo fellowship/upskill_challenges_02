@@ -69,7 +69,7 @@ Your submission should be a single zip file containing the following:
 Put your CSV file and the folder with the training data into a folder named _**yourfirstname_yourlastname_platform_jeans,**_ compress the folder, and upload the zip file to OneDrive, Google Drive, or DropBox. [Log in](https://www.launchpad.ai/upskill/levis/login) to your account and upload the public file sharing link via the dashboard no later than _**midnight PST on Monday, June 14 for all employees**_.
 
 ## Jackets and Shirts Challenge
-Similar to the jeans challenge,  your goal for this challenge is to train a machine learning model to classify images of Levi's jackerts and shirts , and then use that trained model to make predictions on the test set of randomized images: 
+Similar to the jeans challenge,  your goal for this challenge is to train a machine learning model to classify images of Levi's jackerts and shirts, and then use the trained model to make predictions on the test set of randomized images: 
 
 In the [data repository](https://github.com/fellowship/upskill_challenges_02/blob/main/Platform/Data/jackets_challenge_data.zip) you'll find a dataset of 30 randomized  images. Each of the belongs to one of three labels:
 - **Puffer Jackets**
