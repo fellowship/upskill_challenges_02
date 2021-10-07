@@ -71,7 +71,7 @@ Put your CSV file and the folder with the training data into a folder named _**y
 ## Jackets and Shirts Challenge
 Similar to the jeans challenge,  your goal for this challenge is to train a machine learning model to classify images of Levi's jackerts and shirts , and then use that trained model to make predictions on the test set of randomized images: 
 
-In the [data repository](https://github.com/fellowship/upskill_challenges_02/blob/main/Platform/Data/jackets_challenge_data.zip) you'll find a dataset of 40 randomized  images. Each of the jeans belongs to one of three labels:
+In the [data repository](https://github.com/fellowship/upskill_challenges_02/blob/main/Platform/Data/jackets_challenge_data.zip) you'll find a dataset of 30 randomized  images. Each of the belongs to one of three labels:
 - **Puffer Jackets**
 - **Tucker Jackets**
 - **Shirts** 
@@ -85,9 +85,9 @@ Your model should predict labels as follows:
 
 ### Instructions
 -  Build a dataset of training images from the web. 
+-  Rename your training images according to their label, example: Puffer_1.jpg, Puffer_2.jpg, Tucker_1.jpg, etc
 -  The images for training should not include any image from the testset. 
 -  Training dataset should be 30 images in total, 10 images per class.
--  Your images should be labeled as: **Puffer** , **Tucker** , **Shirt**
 
 ### Deliverables
 
