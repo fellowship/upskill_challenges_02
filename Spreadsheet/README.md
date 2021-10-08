@@ -6,7 +6,7 @@ Your goal for this challenge is to perform some data analysis, complete a series
 
 ## Instructions
 
-The [Excel File](https://github.com/fellowship/upskill_challenges_02/blob/main/Spreadsheet/Spreadsheet%20Challenge.xlsx) contains all the necessary details. Download the file, rename it _**yourfirstname_yourlastname_excel.xlsx**_, read the instructions, and complete the exercises.
+The [Excel File](https://github.com/fellowship/upskill_challenges_02/blob/main/Spreadsheet/Spreadsheet_Challenge_V2.xlsx) contains all the necessary details. Download the file, rename it _**yourfirstname_yourlastname_excel.xlsx**_, read the instructions, and complete the exercises.
 
 Submit your solution no later than **midnight PST on Monday, June 14 for all employees**.
 
