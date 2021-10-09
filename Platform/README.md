@@ -62,6 +62,8 @@ Your submission should be a single zip file containing the following:
 | 1kDc10mxMfle.jpg | m_501      |
 | 5NtNguD8pCKo.jpg | w_711      |
 
+-Note:_Lobe might not export the csv, you will have to fill a Excel file manually, then save as csv_
+
 - Your training data: The training data set you used to train your model, including image labels as file names, in a folder named _**yourfirstname_yourlastname_training_data.**_
 
 Put your CSV file and the folder with the training data into a folder named _**yourfirstname_yourlastname_platform_jeans,**_ compress the folder, and upload the zip file to OneDrive, Google Drive, or DropBox. [Log in](https://www.launchpad.ai/upskill/levis/login) to your account and upload the public file sharing link via the dashboard.
