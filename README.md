@@ -8,11 +8,11 @@ Applicants to the Launchpad UpSkill program are required to work on two challeng
 
 ### [Spreadsheet Analysis](https://github.com/fellowship/upskill_challenges_02/tree/main/Spreadsheet)
 
-Analyze some data, answer some questions, and present your findings. Due no later than **midnight PST on Monday, June 14th for all employees**. Refer to the [spreadsheet challenge specifics](https://github.com/fellowship/upskill_challenges_02/tree/main/Spreadsheet) for more details.
+Analyze some data, answer some questions, and present your findings. Due no later than **midnight PST on Monday. Refer to the [spreadsheet challenge specifics](https://github.com/fellowship/upskill_challenges_02/tree/main/Spreadsheet) for more details.
 
 ### [No-code Machine Learning](https://github.com/fellowship/upskill_challenges_02/tree/main/Platform)
 
-Build a dataset and train a model using a no-code platform; use your model to categorize some jean pictures. Due no later than **midnight PST on Monday, June 14 for all employees**. Refer to the [platform challenge specifics](https://github.com/fellowship/upskill_challenges_02/tree/main/Platform) for more details.
+Build a dataset and train a model using a no-code platform; use your model to categorize some jean pictures. Due no later than **midnight PST on Monday. Refer to the [platform challenge specifics](https://github.com/fellowship/upskill_challenges_02/tree/main/Platform) for more details.
 
 ## Helpful Hints
 
