@@ -16,7 +16,7 @@ Build a dataset and train a model using a no-code platform; use your model to ca
 
 ### [No-code Natural Language Processing](https://github.com/fellowship/upskill_challenges_02/tree/main/Spam%20or%20Ham)
 
-Label a dataset and train a model using a ready jupyter notebook; use your notebook and training data to make predictions. Refer to the [Spam or Ham challenge specifics](https://github.com/fellowship/upskill_challenges_02/tree/main/Spam%20or%20Ham) for more details.
+Label a dataset and train a model using a ready jupyter notebook; use your notebook and training data to make predictions. Refer to the [Spam or Ham challenge specifics](https://github.com/fellowship/upskill_challenges_02/blob/main/Spam%20or%20Ham/spam_or_ham_specifications.md) for more details.
 
 ## Helpful Hints
 
