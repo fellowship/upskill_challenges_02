@@ -14,7 +14,7 @@ Analyze some data, answer some questions, and present your findings. Refer to th
 
 Build a dataset and train a model using a no-code platform; use your model to categorize some jean pictures. Refer to the [platform challenge specifics](https://github.com/fellowship/upskill_challenges_02/tree/main/Platform) for more details.
 
-### [No-code Natural Language Processing](https://github.com/fellowship/upskill_challenges_02/tree/main/Platform)
+### [No-code Natural Language Processing](https://github.com/fellowship/upskill_challenges_02/tree/main/Spam%20or%20Ham)
 
 Label a dataset and train a model using a ready jupyter notebook; use your notebook and training data to make predictions. Refer to the [Spam or Ham challenge specifics](https://github.com/fellowship/upskill_challenges_02/tree/main/Spam%20or%20Ham) for more details.
 
