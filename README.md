@@ -14,6 +14,10 @@ Analyze some data, answer some questions, and present your findings. Refer to th
 
 Build a dataset and train a model using a no-code platform; use your model to categorize some jean pictures. Refer to the [platform challenge specifics](https://github.com/fellowship/upskill_challenges_02/tree/main/Platform) for more details.
 
+### [No-code Natural Language Processing](https://github.com/fellowship/upskill_challenges_02/tree/main/Platform)
+
+Build a dataset and train a model using a no-code platform; use your model to categorize some jean pictures. Refer to the [platform challenge specifics](https://github.com/fellowship/upskill_challenges_02/tree/main/Platform) for more details.
+
 ## Helpful Hints
 
 Although arriving at a functional solution is important, we're more interested in how and why you arrived at your solution. You should be able to summarize and present your work while justifying and explaining the decisions you made along the way. Here are some things you may want to consider while working on your challenges:
