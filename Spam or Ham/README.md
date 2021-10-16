@@ -8,10 +8,12 @@ The challenge has three main steps:
 5. Run the notebook and submit a link to your notebook, training dataset, along with prediction csv
 
 ### Instructions
-- The applicants will open the dataset and label as much as they want (can)
-- The labeling is ‘ham’ or ‘spam’ in the label column in excel then  they will export it as csv
-- Applicants will upload their csvs to the colab environment (as show in screenshots in the doc )
-- Run the notebook (notebook will automatically  download a csv of their predictions)
+- You will open the dataset and label as much as you want (can)
+- The first 100 labels are labeled for you
+- The labeling is ‘ham’ or ‘spam’ in the label column in excel -
+- Once done with labeling, export training data as csv
+- You will upload you training csv and test csv to the colab environment (as show in screenshots in the doc)
+- Run the notebook (notebook will automatically download a csv of their predictions)
 - Submit a link of their notebook, training dataset, and the csv of their predictions
 
 ### Guidelines
@@ -21,5 +23,5 @@ The challenge has three main steps:
 Your submission should be a single zip file named **yourfirstname_yourlastname_NLP.csv** containing the following:
 
 - Your **predictions** for test set: A CSV of the corresponding predictions.
-- Your **trainding** data set: A csv of the training set used in the jupiter notebook
+- Your **training** data set: A csv of the training set used in the jupiter notebook
 - Your **notebook**: Notebook should be downloaded as .ipynb 
