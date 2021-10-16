@@ -6,14 +6,13 @@ The challenge has three main steps:
 3. Export the dataset as csv
 4. Upload the dataset into your notebook environment (use this link, for instructions on how to use colab environment).
 5. Run the notebook and submit a link to your notebook, training dataset, along with prediction csv
-
 ### Instructions
 - You will open the dataset and label as much as you want (can)
 - The first 100 labels are labeled for you
 - The labeling is ‘ham’ or ‘spam’ in the label column in excel -
 - Once done with labeling, export training data as csv
-- You will upload you training csv and test csv to the colab environment (as show in screenshots in the doc)
-- Run the notebook (notebook will automatically download a csv of their predictions)
+- You will upload you training csv and test csv to the colab environment (as show in screenshots in the [doc](https://github.com/fellowship/upskill_challenges_02/blob/main/Spam%20or%20Ham/How%20to%20solve%20NLP%20challenge.pdf)
+- Run all the notebook (notebook will automatically download a csv of their predictions)
 - Submit a link of their notebook, training dataset, and the csv of their predictions
 
 ### Guidelines
