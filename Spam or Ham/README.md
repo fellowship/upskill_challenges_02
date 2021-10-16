@@ -6,3 +6,9 @@ The challenge has three main steps:
 3. Export the dataset as csv
 4. Upload the dataset into your notebook environment (use this link, for instructions on how to use colab environment).
 5. Run the notebook and submit a link to your notebook, training dataset, along with prediction csv
+
+### Instructions
+
+### Guidelines
+
+### Deliverables
