@@ -8,6 +8,11 @@ The challenge has three main steps:
 5. Run the notebook and submit a link to your notebook, training dataset, along with prediction csv
 
 ### Instructions
+- The applicants will open the dataset and label as much as they want (can)
+- The labeling is ‘ham’ or ‘spam’ in the label column in excel then  they will export it as csv
+- Applicants will upload their csvs to the colab environment (will show in screenshots doc )
+- Run the notebook (notebook will automatically  download a csv of their predictions)
+- Submit a link of their notebook and the csv of their predictions
 
 ### Guidelines
 
