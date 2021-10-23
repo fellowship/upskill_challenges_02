@@ -27,3 +27,6 @@ Your submission should be a single zip file named **yourfirstname_yourlastname_N
 - Your **predictions** for test set: A CSV of the corresponding predictions.
 - Your **training** data set: A csv of the training set used in the jupiter notebook
 - Your **notebook**: Notebook should be downloaded as .ipynb 
+
+## Deadline
+Log in to your account and upload the public file sharing link via the dashboard no later than midnight PST on December 6 for all employees
