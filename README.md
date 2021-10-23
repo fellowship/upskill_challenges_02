@@ -29,3 +29,6 @@ Although arriving at a functional solution is important, we're more interested i
 - What types of visualizations and summaries will help me present my solution to a key stakeholder?
 - What are some of the inherent limitations to my solution, and how can the solution be improved to over come them?
 - If there are any, what are some of the business implications relevant to your solution? 
+
+## Deadline
+Log in to your account and upload the public file sharing link via the dashboard no later than midnight PST on December 6 for all employees
