@@ -105,3 +105,6 @@ Your submission should be a single zip file containing the following:
 - Your **training data**: The training data set you used to train your model, including image labels as file names, in a folder named _**yourfirstname_yourlastname_training_data.**_
 
 Put your CSV file and the folder with the training data into a folder named _**yourfirstname_yourlastname_platform_jackets,**_ compress the folder, and upload the zip file to OneDrive, Google Drive, or DropBox. [Log in](https://www.launchpad.ai/upskill/levis/login) to your account and upload the public file sharing link via the dashboard.
+
+## Deadline
+Log in to your account and upload the public file sharing link via the dashboard no later than midnight PST on December 6 for all employees
