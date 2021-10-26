@@ -31,4 +31,4 @@ Although arriving at a functional solution is important, we're more interested i
 - If there are any, what are some of the business implications relevant to your solution? 
 
 ## Deadline
-[Log in](https://www.launchpad.ai/upskill/levis/login) to your account and upload the public file sharing link via the dashboard. Don't put your file in a folder before compressing; compress the file itself. Challenges should be submitted no later than midnight PST on December 6 for all employees
+[Log in](https://www.launchpad.ai/upskill/levis/login) to your account and upload the public file sharing link via the dashboard. Don't put your file in a folder before compressing; compress the file itself. Challenges should be submitted no later than midnight PST on December 6 for all employees.
