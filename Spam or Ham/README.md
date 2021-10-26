@@ -29,4 +29,4 @@ Your submission should be a single zip file named **yourfirstname_yourlastname_N
 - Your **notebook**: Notebook should be downloaded as .ipynb 
 
 ## Deadline
-Log in to your account and upload the public file sharing link via the dashboard no later than midnight PST on December 6 for all employees
+[Log in](https://www.launchpad.ai/upskill/levis/login) to your account and upload the public file sharing link via the dashboard. Don't put your file in a folder before compressing; compress the file itself. Challenges should be submitted no later than midnight PST on December 6 for all employees.
