@@ -6,19 +6,19 @@ Applicants to the Launchpad UpSkill program are required to work on three challe
 
 ## Challenges
 
-### [Spreadsheet Analysis](https://github.com/fellowship/upskill_challenges_02/tree/main/Spreadsheet)
+### [1-Spreadsheet Analysis](https://github.com/fellowship/upskill_challenges_02/tree/main/Spreadsheet)
 
 Analyze some data, answer some questions, and present your findings. Refer to the [spreadsheet challenge specifics](https://github.com/fellowship/upskill_challenges_02/tree/main/Spreadsheet) for more details.
 
-### [No-code Machine Learning (Jeans)](https://github.com/fellowship/upskill_challenges_02/tree/main/Platform)
+### [2-No-code Machine Learning (Jeans)](https://github.com/fellowship/upskill_challenges_02/tree/main/Platform)
 
 Build a dataset and train a model using a no-code platform; use your model to categorize some jean pictures. Refer to the [platform challenge specifics](https://github.com/fellowship/upskill_challenges_02/tree/main/Platform) for more details.
 
-### [No-code Machine Learning (Jackets and Shirts)](https://github.com/fellowship/upskill_challenges_02/tree/main/Platform)
+### [3-No-code Machine Learning (Jackets and Shirts)](https://github.com/fellowship/upskill_challenges_02/tree/main/Platform)
 
 Build a dataset and train a model using a no-code platform; use your model to categorize images of jackets and shirts. Refer to the [platform challenge specifics](https://github.com/fellowship/upskill_challenges_02/tree/main/Platform) for more details.
 
-### [No-code Natural Language Processing (Spam or Ham)](https://github.com/fellowship/upskill_challenges_02/tree/main/Spam%20or%20Ham)
+### [4-No-code Natural Language Processing (Spam or Ham)](https://github.com/fellowship/upskill_challenges_02/tree/main/Spam%20or%20Ham)
 
 Label a dataset and train a model using a ready jupyter notebook; use your notebook and training data to make predictions. Refer to the [Spam or Ham challenge specifics](https://github.com/fellowship/upskill_challenges_02/tree/main/Spam%20or%20Ham) for more details.
 
