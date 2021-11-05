@@ -11,8 +11,8 @@ The challenge has three main steps:
 - The first 100 labels are labeled for you
 - The labeling is ‘ham’ or ‘spam’ in the label column in excel -
 - Once done with labeling, export training data as csv
-- You will upload you training csv and test csv to the colab environment (as show in screenshots in the [doc](https://github.com/fellowship/upskill_challenges_02/blob/main/Spam%20or%20Ham/How%20to%20solve%20NLP%20challenge.pdf))
-- Run all the notebook (notebook will automatically show your validation accuracy)
+- You will upload you training csv and test csv to the colab environment (as shown in screenshots in the [doc](https://github.com/fellowship/upskill_challenges_02/blob/main/Spam%20or%20Ham/How%20to%20solve%20NLP%20challenge.pdf))
+- Run all the notebook
 - Submit a link of your notebook, and the csv of your training dataset
 
 ### Guidelines
