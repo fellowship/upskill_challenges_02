@@ -16,7 +16,7 @@ The challenge has three main steps:
 - Submit a link of your notebook, and the csv of your training dataset
 
 ### Guidelines
-- There are about 300 texts in the training dataset
+- There are about 800 texts in the training dataset
 - First 100 texts are labeled for you
 - More labels will increase the accuracy of your model so you are encouraged to label the whole dataset (_however it is not mandatory_)
 
