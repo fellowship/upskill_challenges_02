@@ -1,7 +1,7 @@
 # No-code NLP Challenge
 In this challenge you are expected to label a training data set of set messages as 'spam' or 'ham'. Then use a ready jupyter notebook to train a spam detector model. The notebook will automatically save a csv of predictions on a test set.
 The challenge has three main steps:
-1. Use the jupyter notebook in the repo or use this [link](https://colab.research.google.com/drive/1ORiwS2MffQLZazBL1FRiyUfWA66UFIQg?usp=sharing).
+1. Use the jupyter notebook in the repo or use this [link](https://colab.research.google.com/drive/18z_2AWBZKUUCJI8cD2l3tOoDz6QQsdNs?usp=sharing).
 2. Download the datasets and add your labels to the training dataset in excel using this [link](https://github.com/fellowship/upskill_challenges_02/tree/main/Spam%20or%20Ham/Data). 
 3. Export the dataset as csv
 4. Upload the dataset into your notebook environment (use this link, for instructions on how to use colab environment).
