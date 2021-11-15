@@ -22,7 +22,7 @@ The challenge has three main steps:
 
 ### Deliverables
 
-Your submission should be a single zip file named **yourfirstname_yourlastname_NLP.csv** containing the following:
+Your submission should be a single zip file named **yourfirstname_yourlastname_NLP.zip** containing the following:
 
 - Your **training** data set: A csv of the training set used in the jupiter notebook
 - Your **notebook**: Notebook should be downloaded as .ipynb 
