@@ -4,7 +4,7 @@ The challenge has three main steps:
 1. Use the jupyter notebook in the repo or use this [link](https://colab.research.google.com/drive/18z_2AWBZKUUCJI8cD2l3tOoDz6QQsdNs?usp=sharing).
 2. Download the dataset and add your labels to the training dataset in excel using this [link](https://github.com/fellowship/upskill_challenges_02/tree/main/Spam%20or%20Ham/Data). 
 3. Export the dataset as csv
-4. Upload the dataset into your notebook environment (use this link, for instructions on how to use colab environment).
+4. Upload the dataset into your notebook environment (use this [link](https://github.com/fellowship/upskill_challenges_02/blob/main/Spam%20or%20Ham/How%20to%20solve%20the%20NLP%20challenge%20.pdf), for instructions on how to use colab environment).
 5. Run the notebook and submit a link to your notebook, along with training csv
 ### Instructions
 - You will open the dataset and label as much as you want (can)
