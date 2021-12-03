@@ -85,7 +85,7 @@ Your model should predict labels as follows:
 
 ### Instructions
 -  Build a dataset of training images from the web. 
--  Rename your training images according to their label, example: Puffer_1.jpg, Puffer_2.jpg, Tucker_1.jpg, etc
+-  Rename your training images according to their label, example: Puffer_1.jpg, Puffer_2.jpg, Trucker_1.jpg, etc
 -  The images for training should not include any image from the testset. 
 -  Training dataset should be 30 images in total, 10 images per class.
 
@@ -99,7 +99,7 @@ Your submission should be a single zip file containing the following:
 | file_name        | prediction |
 |------------------|------------|
 | 1kDc10mxMfle.jpg | Puffer     |
-| 5NtNguD8pCKo.jpg | Tucker     |
+| 5NtNguD8pCKo.jpg | Trucker     |
 
 
 - Your **training data**: The training data set you used to train your model, including image labels as file names, in a folder named _**yourfirstname_yourlastname_training_data.**_
