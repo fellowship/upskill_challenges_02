@@ -16,7 +16,7 @@ Analyze some data, answer some questions, and present your findings. Refer to th
 
 Build a dataset and train a model using a no-code platform; use your model to categorize some jean pictures. Refer to the [platform challenge specifics](https://github.com/fellowship/upskill_challenges_02/tree/main/Platform) for more details.
 
-### [3-No-code Machine Learning (Jackets and Shirts)](https://github.com/fellowship/upskill_challenges_02/tree/main/Platform)
+### [3-No-code Machine Learning (Clothing Categories)](https://github.com/fellowship/upskill_challenges_02/tree/main/Platform)
 
 Build a dataset and train a model using a no-code platform; use your model to categorize images of jackets and shirts. Refer to the [platform challenge specifics](https://github.com/fellowship/upskill_challenges_02/tree/main/Platform) for more details.
 
