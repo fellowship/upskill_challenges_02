@@ -3,6 +3,7 @@
 ## Overview
 
 Applicants to the Launchpad UpSkill program are required to work on four challenge problems. Each challenge has a distinct focus and will test your problem solving and organization skills. Carefully follow the instructions and pay close attention to the solution submission guidelines; poorly formatted solutions will count against you during the evaluation process.
+The application period is between **July/18/2022** and **August/25/2022**.
 
 ## Challenges
 
