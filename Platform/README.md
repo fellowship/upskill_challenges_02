@@ -107,4 +107,4 @@ Your submission should be a single zip file containing the following:
 Put your CSV file and the folder with the training data into a folder named _**yourfirstname_yourlastname_platform_jackets,**_ compress the folder, and upload the zip file to OneDrive, Google Drive, or DropBox. [Log in](https://www.launchpad.ai/upskill/levis/login) to your account and upload the public file sharing link via the dashboard.
 
 ## Deadline
-[Log in](https://www.launchpad.ai/upskill/levis/login) to your account and upload the public file sharing link via the dashboard. Don't put your file in a folder before compressing; compress the file itself. Challenges should be submitted no later than midnight PST on January 5 for all employees.
+[Log in](https://www.launchpad.ai/upskill/levis/login) to your account and upload the public file sharing link via the dashboard. Don't put your file in a folder before compressing; compress the file itself. Challenges should be submitted no later than midnight PST on **August 25** for all employees.
