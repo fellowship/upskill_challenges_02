@@ -71,7 +71,7 @@ Put your CSV file and the folder with the training data into a folder named _**y
 ## Clothing Categories Challenge
 Similar to the jeans challenge,  your goal for this challenge is to train a machine learning model to classify images of Levi's clothing categories, and then use the trained model to make predictions on the test set of randomized images: 
 
-In the [data repository](https://github.com/fellowship/upskill_challenges_02/blob/main/Platform/Data/jackets_challenge_data.zip) you'll find a dataset of 30 randomized images. Each of the images belongs to one of three labels:
+In the [data repository](https://github.com/fellowship/upskill_challenges_02/blob/main/Platform/Data/Clothing_Categories_challenge_data.zip) you'll find a dataset of 40 randomized images. Each of the images belongs to one of 4 labels:
 - **Jackets**
 - **Jeans**
 - **Shirts** 
