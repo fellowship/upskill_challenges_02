@@ -20,4 +20,4 @@ The [Excel File](https://github.com/fellowship/upskill_challenges_02/blob/main/S
 Compress the Excel file and upload it to OneDrive, Google Drive, or DropBox.
 
 ## Deadline
-[Log in](https://www.launchpad.ai/upskill/levis/login) to your account and upload the public file sharing link via the dashboard. Don't put your file in a folder before compressing; compress the file itself. Challenges should be submitted no later than midnight PST on December 6 for all employees.
+[Log in](https://www.launchpad.ai/upskill/levis/login) to your account and upload the public file sharing link via the dashboard. Don't put your file in a folder before compressing; compress the file itself. Challenges should be submitted no later than midnight PST on August 25 for all employees.
